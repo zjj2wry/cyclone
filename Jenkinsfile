@@ -5,7 +5,7 @@ def registry = "cargo.caicloudprivatetest.com"
 podTemplate(
     cloud: 'dev-cluster',
     namespace: 'kube-system',
-    name: 'cyclone',
+    name: 'cyclone', 
     label: 'cyclone',
     idleMinutes: 1440,
     containers: [
