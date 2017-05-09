@@ -14,7 +14,7 @@ English | [中文](README_zh-CN.md)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat-square)](https://stackshare.io/gaocegege/cyclone)
 [![GitHub contributors](https://img.shields.io/github/contributors/caicloud/cyclone.svg?style=flat-square)](https://github.com/caicloud/cyclone/graphs/contributors)
 [![Issue Stats](https://img.shields.io/issuestats/i/github/caicloud/cyclone.svg?style=flat-square)](https://github.com/caicloud/cyclone/issues)
-[![Issue Stats](https://img.shields.io/issuestats/p/github/caicloud/cyclone.svg?style=flat-square)](https://github.com/caicloud/cyclone/pulls)
+[![Issue Stats](https://img.shields.io/issuestats/p/github/caicloud/cyclone.svg?style=flat-square)](https://github.com/caicloud/cyclone/pulls) 
 
 Unit testing:
 [![Build Status](https://travis-ci.org/caicloud/cyclone.svg?branch=master)](https://travis-ci.org/caicloud/cyclone)
