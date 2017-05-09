@@ -1,5 +1,5 @@
 def server_tag = "caicloud/cyclone-server:${env.BUILD_NUMBER}"
-def worker_tag = "caicloud/cyclone-worker:${env.BUILD_NUMBER}"
+def worker_tag = "caicloud/cyclone-worker:${env.BUILD_NUMBER}" 
 def registry = "cargo.caicloudprivatetest.com"
 
 podTemplate(
